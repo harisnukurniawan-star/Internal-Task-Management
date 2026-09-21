@@ -25,3 +25,7 @@ Copy `.env.example` to `.env.local` and set the Supabase publishable key.
 ## Database
 
 The source-of-truth schema is in `supabase/migrations/0001_foundation.sql`.
+
+## Build status
+
+Foundation build validated successfully in GitHub Actions on September 21, 2026.
